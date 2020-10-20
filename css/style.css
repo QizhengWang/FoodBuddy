@@ -9,7 +9,7 @@ ul#menu li {
 display: inline;
 }
 li a {
-display: inline;
+display: block;
 color:purple;
 text-align:center;
 padding:18px;
