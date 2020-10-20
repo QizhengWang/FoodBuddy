@@ -1,12 +1,10 @@
-ul {
+ul#menu {
+display: inline;
 list-style-type:none;
 margin: 0;
 padding: 0;
 overflow: hidden;
 background-color:#345678
-}
-ul#menu {
-display: inline;
 }
 li#menuli {
 display: block;
