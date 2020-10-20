@@ -1,0 +1,23 @@
+ul#menu {
+display: inline;
+list-style-type:none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color:#345678
+}
+li#menuli {
+display: block;
+color:purple;
+text-align:center;
+padding:18px;
+text-decoration:none;
+
+}
+li a:hover {
+background-color: #100000;
+}
+.table {
+display: table;
+margin: 0 auto;
+}
