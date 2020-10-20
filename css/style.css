@@ -5,10 +5,13 @@ padding: 0;
 overflow: hidden;
 background-color:#345678
 }
-ul#menu li {
+ul#menu {
 display: inline;
 }
-li a {
+li#menuli {
+  display: inline;
+}
+a#menua {
 display: block;
 color:purple;
 text-align:center;
