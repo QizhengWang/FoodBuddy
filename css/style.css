@@ -9,14 +9,12 @@ ul#menu {
 display: inline;
 }
 li#menuli {
-  display: inline;
-}
-a#menua {
 display: block;
 color:purple;
 text-align:center;
 padding:18px;
 text-decoration:none;
+
 }
 li a:hover {
 background-color: #100000;
