@@ -1,4 +1,4 @@
-#menu ul{
+.menu {
 list-style-type:none;
 margin: 0;
 padding: 0;
@@ -6,10 +6,10 @@ text-align:center:
 overflow: hidden;
 background-color:#6CE59F
 }
-#menu li {
+.menu li {
   display: inline-block;
 }
-#menu a{
+.menu a{
   display: block;
   text-align:center;
   padding: 16px;
