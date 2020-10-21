@@ -4,7 +4,7 @@ list-style-type:none;
 margin: 0;
 padding: 0;
 overflow: hidden;
-background-color:#345678
+background-color:#6CE59F
 }
 li#menuli {
 display: block;
@@ -15,7 +15,7 @@ text-decoration:none;
 
 }
 li a:hover {
-background-color: #100000;
+background-color: #16DE6A;
 }
 .table {
 display: table;
