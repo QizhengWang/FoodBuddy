@@ -6,7 +6,7 @@ overflow: hidden;
 background-color:#6CE59F
 }
 #menu li {
-display: inline-block, center;
+display: block;
 }
 #menu a{
   display: block;
@@ -17,7 +17,3 @@ display: inline-block, center;
 li a:hover {
 background-color: #16DE6A;
 }
-/*.table {
-display: table;
-margin: 0 auto;
-}*\
