@@ -6,7 +6,7 @@ overflow: hidden;
 background-color:#6CE59F
 }
 #menu li {
-display: block;
+display: inline-block;
 text-align:center;
 }
 #menu a{
