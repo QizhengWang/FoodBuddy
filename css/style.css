@@ -7,7 +7,7 @@ overflow: hidden;
 background-color:#6CE59F
 }
 li#menuli {
-display: block;
+display: block,inline;
 color:purple;
 text-align:center;
 padding:18px;
