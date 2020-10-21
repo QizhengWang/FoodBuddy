@@ -1,6 +1,5 @@
 #menu ul{
 list-style-type:none;
-float: none;
 margin: 0;
 padding: 0;
 overflow: hidden;
@@ -8,11 +7,9 @@ background-color:#6CE59F
 }
 #menu li {
   display: inline-block;
-  float:none;
 }
 #menu a{
   display: block;
-  float:none;
   text-align:center;
   padding: 16px;
 }
