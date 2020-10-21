@@ -7,9 +7,13 @@ background-color:#6CE59F
 }
 li#menu li {
 display: inline;
-color:purple;
-padding:18px;
 }
+li#menu li a{
+  display: block;
+  text-align:center;
+  padding: 16px;
+}
+
 li a:hover {
 background-color: #16DE6A;
 }
