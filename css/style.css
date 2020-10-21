@@ -6,7 +6,8 @@ overflow: hidden;
 background-color:#6CE59F
 }
 #menu li {
-display: inline-block;
+  display: inline-block;
+  float:none;
 }
 #menu a{
   display: block;
