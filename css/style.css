@@ -1,6 +1,5 @@
 ul#menu {
 list-style-type:none;
-display: inline;
 margin: 0;
 padding: 0;
 overflow: hidden;
@@ -9,10 +8,7 @@ background-color:#6CE59F
 li#menu li {
 display: inline;
 color:purple;
-text-align:center;
 padding:18px;
-text-decoration:none;
-
 }
 li a:hover {
 background-color: #16DE6A;
