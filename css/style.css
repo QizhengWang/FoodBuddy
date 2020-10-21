@@ -18,7 +18,3 @@ display: inline-block;
 li a:hover {
 background-color: #16DE6A;
 }
-
-.nav {
-  float:none;
-}
