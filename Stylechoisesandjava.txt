@@ -3,16 +3,26 @@ Navigation:
 green: #6CE59F
 when hover: 16DE6A
 
+These colors were selected because the pastel feel looks more modern and helps to read text better. Darker colors makes it harder for the eyes to read.
+
 
 Background:
 white
 
+Easy to read text. Simple + modern.
+
 Potential red background
 red: #EDAEAE
 
+Thinking about giving something more for the eye to look at. Trying out pasetel reds so that reading texts stays nice and easy.
+
 
 Fonts:
-
 https://fonts.google.com/specimen/Sansita+Swashed - Title 
+Different font helps for the eye to find the tittles/headers.
+
 https://fonts.google.com/specimen/Poppins#standard-styles - Navigator
+This font is clean and simple to read.
+
 https://fonts.google.com/specimen/B612?sort=date - Text
+This font has curved edges, and thus more appropriate for text fonts.
