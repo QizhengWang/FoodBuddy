@@ -1,0 +1,18 @@
+Color codes:
+Navigation:
+green: #6CE59F
+when hover: 16DE6A
+
+
+Background:
+white
+
+Potential red background
+red: #EDAEAE
+
+
+Fonts:
+
+https://fonts.google.com/specimen/Sansita+Swashed - Title 
+https://fonts.google.com/specimen/Poppins#standard-styles - Navigator
+https://fonts.google.com/specimen/B612?sort=date - Text
