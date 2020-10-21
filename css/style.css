@@ -1,14 +1,14 @@
-ul#menu {
+#menu ul{
 list-style-type:none;
 margin: 0;
 padding: 0;
 overflow: hidden;
 background-color:#6CE59F
 }
-li#menu li {
+#menu li {
 float: center;
 }
-a#menu li a{
+#menu a{
   display: block;
   text-align:center;
   padding: 16px;
