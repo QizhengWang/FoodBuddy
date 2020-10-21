@@ -7,7 +7,7 @@ background-color:#6CE59F
 }
 #menu li {
 display: inline-block;
-float:center;
+float:none;
 }
 #menu a{
   display: block;
