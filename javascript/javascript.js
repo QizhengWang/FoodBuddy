@@ -1,4 +1,9 @@
 // JavaScript source code
 
+var addAlertMessage = function() {
+alert('Please take a look at the community page to share your question with us in the comment section!')
+}
+
 var aboutbutton = document.getElemenyById("moreabout");
-aboutbutton.addEventListener('click', alert('If you have questions, please visit out community page and share with us your question in the comment section'));
+aboutbutton.addEventListener('click', addAlertMessage);
+
