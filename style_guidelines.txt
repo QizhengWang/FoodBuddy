@@ -1,0 +1,37 @@
+FoodBuddy Style Guidelines
+__________________________
+
+To more modernize our website, FoodBuddy will feature a minimalist and streamlined design to insure users have a good time navigating the platform.
+
+Colours
+_______
+
+Navigation:
+Normal - #6CE59F
+On Hover - #16DE6A
+
+Website:
+Body - #FFFFFF
+
+These colors were selected because the pastel feel looks more modern and helps to read text better. 
+Less intense and flatter colors make reading a website easier on the eyes.
+
+Fonts
+_____
+
+Simple and modern typography. 
+Allows for a better and cleaner viewing experience.
+
+https://fonts.google.com/specimen/Sansita+Swashed - Title 
+A more pronounced font helps for the eye to find the titles/headers.
+
+https://fonts.google.com/specimen/Poppins - Navigator
+This font is clean and simple to read.
+
+https://fonts.google.com/specimen/B612 - Text
+This font has a simple design with curved edges, and thus more appropriate for body text.
+
+Iconography
+___________
+
+All icons and clickables will sport a flat look to go with the modern design of the rest of the website.
