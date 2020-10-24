@@ -1,5 +1,4 @@
-//about page JS
-var button = document.getElemendId("yesbutton");
-button.addEventListener("click",function() {
-	alert("Visit the community page to ask questions and share with the community");
-});
+// JavaScript source code
+
+var aboutbutton = document.getElemenyById("moreabout");
+aboutbutton.addEventListener('click',window.alert('If you have questions, please visit out community page and share with us your question in the comment section'))
