@@ -54,3 +54,8 @@ display:flex;
 .divbody {
 	margin: 30px;
 }
+
+.divtextset {
+	padding-top: 6em;
+	background-color:none;
+}
