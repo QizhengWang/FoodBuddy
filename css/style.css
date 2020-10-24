@@ -46,7 +46,8 @@ display:flex;
 
 .lstext {
 	font-family:'B612', sans-serif;
-	font-size:25px
+	font-size:25px;
+	margin:auto auto;
 }
 
 
