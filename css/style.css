@@ -3,7 +3,8 @@
 list-style-type:none;
 margin: 0;
 padding: 0;
-/*text-align:center;*/
+text-align:center;
+/*overflow: hidden;*/
 background-color:#DAF7A6;
 }
 
@@ -51,7 +52,7 @@ display:flex;
 
 
 .divbody {
-	margin: 30px 7%;
+	margin: 30px 10%;
 }
 
 .divtextset {
@@ -61,4 +62,8 @@ display:flex;
 .divtextset2 {
 	background-color:initial;
 	margin:auto auto;
+}
+
+.pad {
+        padding: 40px;
 }
