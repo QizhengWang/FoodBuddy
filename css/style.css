@@ -77,3 +77,9 @@ display:flex;
 	text-align: center;
 	color: rgb(255,255,255);
 }
+#urWelcome {
+    background-image: url("images/FoodBackground.jpg");
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 10px;
+}
