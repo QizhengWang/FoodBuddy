@@ -64,6 +64,10 @@ display:flex;
 	margin:auto auto;
 }
 
+.imageformabout {
+	padding-right:5%;
+}
+
 .pad {
         padding: 40px;
 }
