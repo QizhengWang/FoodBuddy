@@ -81,5 +81,6 @@ display:flex;
     background-image: url("images/FoodBackground.jpg");
     background-repeat: no-repeat;
     text-align: center;
-    padding: 10px;
+    padding: 300px;
+    background-size: 100% 100%
 }
