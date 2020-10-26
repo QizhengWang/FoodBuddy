@@ -50,6 +50,9 @@ display:flex;
 	margin:auto auto;
 }
 
+.divtextsetcentered {
+	text-align:center;
+}
 
 .divbody {
 	margin: 5% 7%;
@@ -65,7 +68,7 @@ display:flex;
 }
 
 .imageformabout {
-	padding-right:35%;
+	/*padding-right:35%;*/
 }
 
 .pad {
