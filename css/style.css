@@ -88,12 +88,15 @@ display:flex;
     background-repeat: no-repeat;
     text-align: center;
     padding: 300px;
-    opacity:1;
+    color:white;
+    text-shadow: 2px 2px;
+    /*opacity:1;*/
 }
 
 #backgroundimage {
     background-image: url("images/FoodBackground.jpg");
     background-size: cover;
-    opacity: 0.3;
+    /*opacity: 0.3;*/
     background-size: 100% 100%;
+    border-style:solid;
 }
