@@ -73,7 +73,16 @@ display:flex;
 }
 
 .pad {
-        padding: 40px;
+        padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+.pad2 {
+	padding-left:50px;
+}
+
+.aligntext {
+	margin-left:700px
 }
 
 /*Styles for header banner*/
